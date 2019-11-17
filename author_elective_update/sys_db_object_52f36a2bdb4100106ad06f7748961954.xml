@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit</name>
+        <number_ref display_value="NI">2446ea23db8100106ad06f774896192c</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">d7aba7941b200010452431d7dc4bcb86</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 13:06:22</sys_created_on>
+        <sys_id>52f36a2bdb4100106ad06f7748961954</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_52f36a2bdb4100106ad06f7748961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 13:06:23</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">5446eaafdb4100106ad06f774896194d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0157e6a4db597f8052dd2f17d496199b</instance_id>
+        <instance_name>dev85237</instance_name>
+        <name>sys_db_object_52f36a2bdb4100106ad06f7748961954</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>NeedIt</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit</name><number_ref display_value="NI">2446ea23db8100106ad06f774896192c</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">d7aba7941b200010452431d7dc4bcb86</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-17 13:06:22</sys_created_on><sys_id>52f36a2bdb4100106ad06f7748961954</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_52f36a2bdb4100106ad06f7748961954</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-17 13:06:23</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">5446eaafdb4100106ad06f774896194d</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-543070393</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>def65aebdb0100106ad06f774896196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 13:06:23</sys_created_on>
+        <sys_id>2846ea23db8100106ad06f7748961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e7978b1c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 13:06:23</sys_updated_on>
+        <type>Table</type>
+        <update_guid>6046ea23c4810010acebb9967a4b7b32</update_guid>
+        <update_guid_history>6046ea23c4810010acebb9967a4b7b32:-543070393,a446ea231f810010bf0660d16448652b:16206506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 13:10:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0ab1c5efa7dc4a7cb93df868bb432f04</sys_id>
+        <sys_metadata>52f36a2bdb4100106ad06f7748961954</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_52f36a2bdb4100106ad06f7748961954</sys_update_name>
+        <sys_update_version display_value="sys_db_object_52f36a2bdb4100106ad06f7748961954">2846ea23db8100106ad06f7748961932</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 13:10:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
